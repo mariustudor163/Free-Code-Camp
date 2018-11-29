@@ -1,2 +1,2 @@
 # Free-Code-Camp
-Me learning javaScript 
+Me learning javaScript and git while at it.
